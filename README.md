@@ -1,7 +1,14 @@
 # BSDrock
 BSDrock is a FreeBSD container for deploying Minecraft Bedrock servers using FreeBSD jails.
+#
 
+<ins>Installation Host Requirements </ins>
+- Machine running 64-bit FreeBSD 14.2-RELEASE
+- Linux Binary Compatibility enabled (see [Chapter 12. Linux Binary Compatibility](https://docs.freebsd.org/en/books/handbook/linuxemu/) )
+- samba419 (for optional SMB)
 # Installation Guide:
+
+
 Run `git clone https://github.com/ripastley/BSDrock` to download BSDrock.
 
 `cd` into the downloaded directory and unzip bsdrock_alpha.zip

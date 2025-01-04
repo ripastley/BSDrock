@@ -10,7 +10,7 @@ Carefully follow prompts. Install script is in very early development but is fun
 
 Once the jail is installed, you can open the minecraft folder by mapping the jail's SMB share (\\\your_ip\Minecraft)
 
-Add your world files and restart the jail (service jail restart bedrock)
+Add your minecraft folder and restart the jail (service jail restart bedrock)
 
 This project is in the early stages and is mostly for my own personal use. YMMV.
 

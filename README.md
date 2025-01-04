@@ -7,6 +7,7 @@ BSDrock is a FreeBSD container for deploying Minecraft Bedrock servers using Fre
 - Linux Binary Compatibility enabled (see [Chapter 12. Linux Binary Compatibility](https://docs.freebsd.org/en/books/handbook/linuxemu/) )
 - samba419 (optional: for enabling SMB on jail)
 - git-lfs (optional: for cloning BSDrock on local machine)
+- NTP (must be enabled to sync with Microsoft login services if enabling online mode)
 # Installation Guide:
 
 Set up git-lfs if cloning onto local machine.

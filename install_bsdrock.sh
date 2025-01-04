@@ -44,6 +44,6 @@
 			jexec bedrock smbpasswd -a bedrock 
 		fi
 	}
-	##############
+	
 	install_bsdrock
-	###############
+	
